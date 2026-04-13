@@ -1,5 +1,6 @@
 import java.util.Scanner;
-git remote add origin https://github.com/1siphosihle/ChatApp-Part1 
+
+public class Login {
 
     private String username;
     private String password;
